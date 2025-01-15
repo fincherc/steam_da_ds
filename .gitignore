@@ -1,2 +1,2 @@
 # Exclude API
-*config
+config*
